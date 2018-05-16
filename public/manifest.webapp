@@ -1,5 +1,5 @@
 {
-    "name": "Web App",
+    "name": "Test Name",
     "description": "Web App Description",
     "version": "1.0.0",
     "developer": {
@@ -7,8 +7,8 @@
         "url": "https://github.com/gasolin/webapplate"
     },
     "icons":{
-        "60": "/ghapplate/public/style/icons/apple-touch-icon-precomposed.png",
-        "128": "/ghapplate/public/style/icons/icon128.png"
+        "60": "/ghapplate/public/style/icons/1510821976555.jpg",
+        "128": "/ghapplate/public/style/icons/1510821976555.jpg"
     },
     "launch_path": "/ghapplate/public/index.html",
     "installs_allowed_from": ["*"],
