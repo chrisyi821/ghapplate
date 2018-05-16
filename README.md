@@ -24,7 +24,7 @@ Go to https://github.com/chrisyi821/ghapplate.
 
 ## How to create multiple forks of a GitHub repo?
 
-Check the [guide](https://adrianshort.org/create-multiple-forks-of-a-github-repo/).
+## Check the [guide](https://adrianshort.org/create-multiple-forks-of-a-github-repo/).
 
 ## Features
 
